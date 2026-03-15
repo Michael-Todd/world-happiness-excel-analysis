@@ -15,6 +15,12 @@ The analysis focuses primarily on the relationship between **GDP per capita** an
 
 ---
 
+## Dashboard
+
+![Excel Dashboard](dashboard_screenshot.png)
+
+---
+
 ## Tools Used
 
 - Microsoft Excel
